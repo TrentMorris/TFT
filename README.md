@@ -54,5 +54,5 @@ Examples:
   
   19032 total
 
-That's it! Easy to add
+That's it!
 
